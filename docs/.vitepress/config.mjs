@@ -7,7 +7,7 @@ export default defineConfig({
   public: 'docs/public',
   title: "有兽焉粉丝服务器帮助中心",
   description: "有兽焉 Minecraft Java 国际版粉丝服务器",
-  outDir: '../dist/',
+  // outDir: '../dist/',
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
 
   themeConfig: {
